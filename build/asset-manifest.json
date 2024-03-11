@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SocialNetwork/static/css/main.ea6801f5.css",
+    "main.js": "/SocialNetwork/static/js/main.a8f939e2.js",
+    "static/css/432.9709ff35.chunk.css": "/SocialNetwork/static/css/432.9709ff35.chunk.css",
+    "static/js/432.c0e80574.chunk.js": "/SocialNetwork/static/js/432.c0e80574.chunk.js",
+    "static/css/944.561b014f.chunk.css": "/SocialNetwork/static/css/944.561b014f.chunk.css",
+    "static/js/944.7a3e18a5.chunk.js": "/SocialNetwork/static/js/944.7a3e18a5.chunk.js",
+    "static/media/tetatet.jpeg": "/SocialNetwork/static/media/tetatet.620831fbdc1148d2a7b1.jpeg",
+    "static/media/spinning-circles.svg": "/SocialNetwork/static/media/spinning-circles.cff806a7c5b3edb7401158f6331682a1.svg",
+    "index.html": "/SocialNetwork/index.html",
+    "main.ea6801f5.css.map": "/SocialNetwork/static/css/main.ea6801f5.css.map",
+    "main.a8f939e2.js.map": "/SocialNetwork/static/js/main.a8f939e2.js.map",
+    "432.9709ff35.chunk.css.map": "/SocialNetwork/static/css/432.9709ff35.chunk.css.map",
+    "432.c0e80574.chunk.js.map": "/SocialNetwork/static/js/432.c0e80574.chunk.js.map",
+    "944.561b014f.chunk.css.map": "/SocialNetwork/static/css/944.561b014f.chunk.css.map",
+    "944.7a3e18a5.chunk.js.map": "/SocialNetwork/static/js/944.7a3e18a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea6801f5.css",
+    "static/js/main.a8f939e2.js"
+  ]
+}
